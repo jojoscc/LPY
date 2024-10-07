@@ -1,0 +1,20 @@
+# Calculadora Simples em Python
+
+Este é um projeto simples de uma calculadora, desenvolvido em Python, que realiza as quatro operações básicas: adição, subtração, multiplicação e divisão.
+
+## Funcionalidades
+
+- Adição: soma dois números.
+- Subtração: subtrai o segundo número do primeiro.
+- Multiplicação: multiplica dois números.
+- Divisão: divide o primeiro número pelo segundo, com tratamento de erro para divisão por zero.
+
+## Pré-requisitos
+
+Para rodar este projeto, você precisará ter o [Python](https://www.python.org/downloads/) instalado em sua máquina.
+
+## Como Executar
+
+1. Clone este repositório em sua máquina local:
+   ```bash
+   git clone https://github.com/jojoscc/LPY.git
